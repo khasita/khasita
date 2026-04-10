@@ -1,8 +1,6 @@
 ## Hi, Thank you for visiting my profile ! 👋
 
-I am **Hasita** — a developer interested in building practical projects and learning new technologies. I enjoy working with **Python** and **JavaScript**, and I'm always looking to improve my ski[...]  
-
-- 🔭 Working on: small apps and projects to strengthen my skills
+I am **Hasita** — a developer interested in building practical projects and learning new technologies. I enjoy working with **Python** and **JavaScript**, and I'm always looking to improve my skills. 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
