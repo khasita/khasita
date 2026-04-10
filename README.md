@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, Thank you for visiting my profile ! 👋
 
 <!--
 **khasita/khasita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
