@@ -1,6 +1,5 @@
 ## Hi, Thank you for visiting my profile ! 👋
 
-## About Me
 I am **Hasita** — a developer interested in building practical projects and learning new technologies. I enjoy working with **Python** and **JavaScript**, and I'm always looking to improve my ski[...]  
 
 - 🔭 Working on: small apps and projects to strengthen my skills
