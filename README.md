@@ -1,7 +1,7 @@
 ## Hi, Thank you for visiting my profile ! 👋
 
 ## About Me
-I am **hasita** — a developer interested in building practical projects and learning new technologies. I enjoy working with **Python** and **JavaScript**, and I'm always looking to improve my skills by building and experimenting.
+I am **Hasita** — a developer interested in building practical projects and learning new technologies. I enjoy working with **Python** and **JavaScript**, and I'm always looking to improve my skills by building and experimenting.
 
 - 🌱 Currently learning: backend + full-stack fundamentals
 - 🔭 Working on: small apps and projects to strengthen my skills
