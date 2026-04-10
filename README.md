@@ -5,7 +5,6 @@ I am **Hasita** — a developer interested in building practical projects and le
 
 - 🌱 Currently learning: backend + full-stack fundamentals
 - 🔭 Working on: small apps and projects to strengthen my skills
-- 🤝 Open to: collaborating and learning from others
 
 <!--
 **khasita/khasita** is a �� _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
