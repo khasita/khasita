@@ -1,7 +1,14 @@
 ## Hi, Thank you for visiting my profile ! 👋
 
+## About Me
+I'm **khasita** — a developer interested in building practical projects and learning new technologies. I enjoy working with **Python** and **JavaScript**, and I'm always looking to improve my skills by building and experimenting.
+
+- 🌱 Currently learning: backend + full-stack fundamentals
+- 🔭 Working on: small apps and projects to strengthen my skills
+- 🤝 Open to: collaborating and learning from others
+
 <!--
-**khasita/khasita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**khasita/khasita** is a �� _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
