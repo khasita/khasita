@@ -2,6 +2,9 @@
 
 I am **Hasita** — a developer interested in building practical projects and learning new technologies. I enjoy working with **Python** and **JavaScript**, and I'm always looking to improve my skills. 
 
+### 🚀 Featured Projects
+- **RAG Chatbot** : [Repository Link](https://github.com/khasita/rag-chatbot)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -13,3 +16,5 @@ I am **Hasita** — a developer interested in building practical projects and le
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1F8ACB?style=for-the-badge&logoColor=white)
