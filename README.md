@@ -3,7 +3,7 @@
 I am **Hasita** — a developer interested in building practical projects and learning new technologies. I enjoy working with **Python** and **JavaScript**, and I'm always looking to improve my skills. 
 
 ### 🚀 Featured Projects
-- **RAG Chatbot** : [Repository Link](https://github.com/khasita/rag-chatbot)
+- **[RAG Chatbot](https://github.com/khasita/rag-chatbot) : A full-stack RAG (Retrieval-Augmented Generation) chatbot built with Node.js, Express, and React that answers questions grounded in custom documents using OpenAI embeddings and Pinecone vector search.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
