@@ -5,6 +5,12 @@ I am **Hasita** — a developer interested in building practical projects and le
 ### 🚀 Current Projects
 - [🤖 RAG Chatbot](https://github.com/khasita/rag-chatbot) : A full-stack RAG (Retrieval-Augmented Generation) chatbot built with Node.js, Express, and React that answers questions grounded in custom documents using OpenAI embeddings and Pinecone vector search.
 
+- [YelpCamp](https://github.com/khasita/yelpcamp) : A full-stack Node.js, Express, and MongoDB application for campground discovery, management, and user reviews, with MapTiler integration, authentication, session management, Joi validation, image uploads, and XSS protection.
+
+- [Movie Search](https://github.com/khasita/movie_search) : A responsive movie search web app built with JavaScript, HTML, and CSS, powered by the IMDb movie API for browsing and discovering films.
+
+- [StoryBoard](https://github.com/khasita/Memories) : A full-stack social media application built with JavaScript and HTML for creating, sharing, and managing personal posts.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
