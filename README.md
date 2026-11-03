@@ -98,6 +98,6 @@ gitGraph
 
 <div align="center">
 
-**Best reached at .hasita2k@gmail.com**
+**Best reached at hasita2k@gmail.com**
 
 </div>
