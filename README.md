@@ -1,28 +1,103 @@
-## Hi, I am Hasita ! 👋
+<div align="center">
 
-I am **Hasita** — a developer interested in building practical projects and learning new technologies. I enjoy working with **Python** and **JavaScript**, and I am always looking to improve my skills. 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2EAD33&center=true&vCenter=true&width=640&lines=Hasita+%7C+Full-Stack+Engineer;I+ship+APIs%2C+UIs%2C+and+the+tests+around+them;Now+building+RAG+and+AI-powered+apps" alt="Typing intro" />
 
-### 🚀 Current Projects
-- [🤖 RAG Chatbot](https://github.com/khasita/rag-chatbot) : A full-stack RAG (Retrieval-Augmented Generation) chatbot built with Node.js, Express, and React that answers questions grounded in custom documents using OpenAI embeddings and Pinecone vector search.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-- [YelpCamp](https://github.com/khasita/yelpcamp) : A full-stack Node.js, Express, and MongoDB application for campground discovery, management, and user reviews, with MapTiler integration, authentication, session management, Joi validation, image uploads, and XSS protection.
+</div>
 
-- [Movie Search](https://github.com/khasita/movie_search) : A responsive movie search web app built with JavaScript, HTML, and CSS, powered by the IMDb movie API for browsing and discovering films.
+---
 
-- [StoryBoard](https://github.com/khasita/Memories) : A full-stack social media application built with JavaScript and HTML for creating, sharing, and managing personal posts.
+## `whoami`
 
-- [VitalLens](https://github.com/khasita/healthtrack) : A Python-based web application for tracking and managing health-related data with a lightweight templating layer.
+```ts
+const hasita = {
+  role: "Full-Stack Software Engineer",
+  experience: "~4 years",
+  education: "MS Computer Science, Binghamton University",
+  stack: {
+    frontend: ["React", "TypeScript"],
+    backend: ["Node.js", "Express", "Python"],
+    data: ["SQL", "MongoDB"],
+    infra: ["Docker", "AWS", "GitHub Actions"],
+    quality: ["Playwright", "Jest", "Cucumber", "Pact.js"],
+  },
+  currently: "Building AI apps with retrieval-augmented generation",
+  openTo: "Full-Stack / AI-adjacent engineering roles",
+} as const;
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-1F8ACB?style=for-the-badge&logoColor=white)
+## How my RAG chatbot works
+
+Instead of listing "AI" as a skill, here is the actual pipeline from [rag-chatbot](https://github.com/khasita/rag-chatbot):
+
+```mermaid
+flowchart LR
+    subgraph Ingest
+        D[Custom documents] --> C[Chunk text] --> E1[OpenAI embeddings] --> P[(Pinecone index)]
+    end
+    subgraph Query
+        U[User question in React UI] --> A[Express API] --> E2[Embed question] --> S[Vector search]
+        P -.-> S
+        S --> X[Top-k context + question] --> L[LLM] --> R[Grounded answer]
+    end
+```
+
+## Projects
+
+<details>
+<summary><b>🤖 RAG Chatbot</b> · answers questions grounded in your own documents</summary>
+
+<br>
+
+- **Problem:** LLMs make things up; people want answers from *their* documents.
+- **Approach:** embed documents, retrieve relevant chunks from Pinecone, pass them to the model as context.
+- **Stack:** React, Node.js, Express, OpenAI, Pinecone
+- [Repo](https://github.com/khasita/rag-chatbot) · [Live demo](#)
+</details>
+
+<details>
+<summary><b>⛺ YelpCamp</b> · full-stack campground discovery and reviews</summary>
+
+<br>
+
+- **Covers:** authentication, sessions, Joi validation, image uploads, XSS protection, MapTiler maps
+- **Stack:** Node.js, Express, MongoDB
+- [Repo](https://github.com/khasita/yelpcamp) · [Live demo](#)
+</details>
+
+<details>
+<summary><b>More</b> · StoryBoard, VitalLens, Movie Search</summary>
+
+<br>
+
+- [StoryBoard](https://github.com/khasita/Memories): social app for creating and sharing posts
+- [VitalLens](https://github.com/khasita/healthtrack): Python web app for tracking health data
+- [Movie Search](https://github.com/khasita/movie_search): movie browsing app on the IMDb API
+</details>
+
+## Career `git log`
+
+```mermaid
+gitGraph
+    commit id: "Wipro: Python automation, SQL, internal tools"
+    commit id: "Wipro: Playwright, Jest, Cucumber (BDD)"
+    commit id: "Global Health Impact: React + Node/Express APIs"
+    commit id: "Global Health Impact: CI/CD pipelines"
+    commit id: "MS CS, Binghamton (Dec 2025)"
+    commit id: "Now: RAG and AI engineering" tag: "HEAD"
+```
+
+## Ask me about
+
+- Building REST APIs in Node/Express and the React UIs that consume them
+- Test automation with BDD and shift-left practices
+- Setting up CI/CD with GitHub Actions
+- Wiring up a RAG pipeline end to end
+
+<div align="center">
+
+**Best reached at your.email@example.com**
+
+</div>
