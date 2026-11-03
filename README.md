@@ -54,7 +54,7 @@ flowchart LR
 - **Problem:** LLMs make things up; people want answers from *their* documents.
 - **Approach:** embed documents, retrieve relevant chunks from Pinecone, pass them to the model as context.
 - **Stack:** React, Node.js, Express, OpenAI, Pinecone
-- [Repo](https://github.com/khasita/rag-chatbot) · [Live demo](#)
+- [Repo](https://github.com/khasita/rag-chatbot)
 </details>
 
 <details>
@@ -64,7 +64,7 @@ flowchart LR
 
 - **Covers:** authentication, sessions, Joi validation, image uploads, XSS protection, MapTiler maps
 - **Stack:** Node.js, Express, MongoDB
-- [Repo](https://github.com/khasita/yelpcamp) · [Live demo](#)
+- [Repo](https://github.com/khasita/yelpcamp)
 </details>
 
 <details>
@@ -98,6 +98,6 @@ gitGraph
 
 <div align="center">
 
-**Best reached at your.email@example.com**
+**Best reached at .hasita2k@gmail.com**
 
 </div>
