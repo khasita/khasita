@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2EAD33&center=true&vCenter=true&width=640&lines=Hasita+%7C+Full-Stack+Engineer;I+ship+APIs%2C+UIs%2C+and+the+tests+around+them;Now+building+RAG+and+AI-powered+apps" alt="Typing intro" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasitak)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.hasita2k@example.com)
 
 </div>
 
