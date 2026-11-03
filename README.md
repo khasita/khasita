@@ -1,4 +1,4 @@
-## Hi, Thank you for visiting my profile ! 👋
+## Hi, I am Hasita ! 👋
 
 I am **Hasita** — a developer interested in building practical projects and learning new technologies. I enjoy working with **Python** and **JavaScript**, and I am always looking to improve my skills. 
 
