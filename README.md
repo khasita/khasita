@@ -20,7 +20,7 @@ const hasita = {
     backend: ["Node.js", "Express", "Python"],
     data: ["SQL", "MongoDB"],
     infra: ["Docker", "AWS", "GitHub Actions"],
-    quality: ["Playwright", "Jest", "Cucumber", "Pact.js"],
+    quality: ["Playwright", "Jest", "Cucumber"],
   },
   currently: "Building AI apps with retrieval-augmented generation",
   openTo: "Full-Stack / AI-adjacent engineering roles",
