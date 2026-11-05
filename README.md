@@ -88,13 +88,6 @@ gitGraph
     commit id: "Now: RAG and AI engineering" tag: "HEAD"
 ```
 
-## Ask me about
-
-- Building REST APIs in Node/Express and the React UIs that consume them
-- Test automation with BDD and shift-left practices
-- Setting up CI/CD with GitHub Actions
-- Wiring up a RAG pipeline end to end
-
 <div align="center">
 
 **Best reached at hasita2k@gmail.com**
